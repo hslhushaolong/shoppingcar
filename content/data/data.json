@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "后街标配",
+    "image": "content/img/img_01.png",
+    "addr": "北京",
+    "state": true,
+    "num": 1,
+    "price": 1500,
+    "size": "M",
+    "color": "red"
+  },
+  {
+    "id": 2,
+    "name": "后街",
+    "image": "content/img/img_02.png",
+    "addr": "北京",
+    "state": true,
+    "num": 1,
+    "price": 2400,
+    "size": "M",
+    "color": "green"
+  },
+  {
+    "id": 3,
+    "name": "标配",
+    "image": "content/img/img_03.png",
+    "addr": "北京",
+    "state": false,
+    "num": 1,
+    "price": 3700,
+    "size": "M",
+    "color": "skyblue"
+  }
+]
